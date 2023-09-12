@@ -1,6 +1,15 @@
 # ML_classification
 IT Academy T7.1
 
+
+## Objectius
+Neteja i interpretació de les dades.
+Preprocessats.
+Creació de models de classificació (arbres de classificació, KNN - k-Nearest neighbors, regressió logística, support vector machine, XGboost, altres models...).
+Utilització de les mètriques per interpretar els resultats.
+Estudi i modificació de paràmetres.
+
+
 ## Exercici 1
 Crea almenys dos models de classificació diferents per intentar predir el millor les classes de l'arxiu adjunt.
 
